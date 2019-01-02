@@ -18,6 +18,8 @@ Currently runs with:
 - Angular v7.1.4
 - Electron v4.0.0
 - Electron Builder v20.28.1
+- Bulma v0.7.2
+- angular-fontawesome v0.3.0 
 
 With this sample, you can :
 
