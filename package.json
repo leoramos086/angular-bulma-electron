@@ -1,18 +1,20 @@
 {
-  "name": "angular-electron",
-  "version": "5.1.0",
-  "description": "Angular 7 with Electron (Typescript + SASS + Hot Reload)",
+  "name": "angular-bulma-electron",
+  "version": "1.0.0",
+  "description": "Angular 7 + Bulma + Electron",
   "homepage": "https://github.com/maximegris/angular-electron",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Leandro Ramos de Oliveira",
+    "email": "leoramos680@gmail.com"
   },
   "keywords": [
     "angular",
     "angular 7",
     "electron",
     "typescript",
-    "sass"
+    "sass",
+    "bulma",
+    "fontawesome"
   ],
   "main": "main.js",
   "private": true,
